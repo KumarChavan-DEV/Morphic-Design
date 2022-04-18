@@ -3,9 +3,9 @@
 <img height="200" src='https://github.com/fornewid/Neumorphism/blob/main/art/preview.png'/>
 </p>
 
-<h1 align="center">Neumorphism in Android</h1><br/>
+<h1 align="center">Morphic design in Android</h1><br/>
 <p align="center">
-  This is the experimental codes to build Neumorphism designs in Android.<br/>
+  This is the experimental codes to build morphic designs in Android.<br/>
   Not a library. Just sample project now.<br/>
   <br/>
 </p>
@@ -39,7 +39,7 @@ allprojects {
 Then, add the library to your module `build.gradle`
 ```gradle
 dependencies {
-    implementation 'com.github.fornewid:neumorphism:{latest_version}'
+    implementation 'in progress'
 }
 ```
 
@@ -49,8 +49,6 @@ dependencies {
   - ViewGroup: CardView
   - View: Button, FloatingActionButton, ImageView
 - Draw a text shadow on TextView for Neumorphism.
-
-> If you want more features or want to fix bugs, please click [new issue](https://github.com/fornewid/neumorphism/issues/new/choose) and report to me!
 
 ## Usage
 There is a [sample](https://github.com/fornewid/neumorphism/tree/main/sample) provided which shows how to use the library:
