@@ -111,6 +111,12 @@ There is a [sample](https://github.com/fornewid/neumorphism/tree/main/sample) pr
 | :--: | :-----: | :---: |
 | <img width="100" src="https://github.com/fornewid/Neumorphism/blob/main/art/shape_flat.png"/> | <img width="100" src="https://github.com/fornewid/Neumorphism/blob/main/art/shape_pressed.png"/> | <img width="100" src="https://github.com/fornewid/Neumorphism/blob/main/art/shape_basin.png"/> |
 
+
+## Author
+
+![Kumar Chavan]
+
+
 ## License
 
 ```
